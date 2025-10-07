@@ -1,0 +1,5 @@
+v 1.0.0, Arman Mahmud 18aug2025 
+d sctofiles: preserve the renamed media file collected during the survey.
+d distribution-date: 2025-08-18
+f sctofiles.ado
+f sctofiles.sthlp

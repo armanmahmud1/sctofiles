@@ -1,6 +1,11 @@
 ## sctofiles
-Run this command to preserve the renamed media file collected during the survey
+Run this command to preserve the renamed media file collected during the survey using surveycto.
 sctofiles command ensures your renamed media file from the survey is saved correctly. It helps maintain consistent file naming for easier tracking and analysis.
+
+## Installing Process
+```
+net install sctofiles, from("https://raw.githubusercontent.com/armanmahmud1/sctofiles/main/") replace
+```
 
 ## Example
 ```

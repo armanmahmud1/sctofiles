@@ -19,6 +19,6 @@ net install sctofiles, from("https://raw.githubusercontent.com/armanmahmud1/scto
 	store("D:\My Drive\test")
 ```
 ## Author
-Arman Mahmud
+Arman Mahmud </br>
 Email: armanmahmud.du18@gmail.com </br>
 Web: https://sites.google.com/view/armanmahmud1/

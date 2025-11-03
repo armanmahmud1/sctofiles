@@ -18,6 +18,9 @@ net install sctofiles, from("https://raw.githubusercontent.com/armanmahmud1/scto
 	mediatype("jpg or png or m4a") renames("select_var_for_rename") ///
 	store("D:\My Drive\test")
 ```
+## Issues
+For any issues, report: https://github.com/armanmahmud1/sctofiles/issues
+
 ## Author
 Arman Mahmud </br>
 Email: armanmahmud.du18@gmail.com </br>
